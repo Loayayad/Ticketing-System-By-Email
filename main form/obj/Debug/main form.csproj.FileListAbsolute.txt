@@ -1,0 +1,12 @@
+c:\users\loay\documents\visual studio 2017\Projects\main form\main form\obj\Debug\main_form.Properties.Resources.resources
+c:\users\loay\documents\visual studio 2017\Projects\main form\main form\obj\Debug\main form.csproj.GenerateResource.Cache
+c:\users\loay\documents\visual studio 2017\Projects\main form\main form\bin\Debug\main form.exe.config
+c:\users\loay\documents\visual studio 2017\Projects\main form\main form\bin\Debug\main form.exe
+c:\users\loay\documents\visual studio 2017\Projects\main form\main form\bin\Debug\main form.pdb
+c:\users\loay\documents\visual studio 2017\Projects\main form\main form\obj\Debug\main form.exe
+c:\users\loay\documents\visual studio 2017\Projects\main form\main form\obj\Debug\main form.pdb
+c:\users\loay\documents\visual studio 2017\Projects\main form\main form\obj\Debug\main_form.form1.resources
+C:\Users\loay\Documents\Visual Studio 2017\Projects\main form\main form\obj\Debug\main_form.Form2.resources
+C:\Users\loay\documents\visual studio 2017\Projects\main form\main form\obj\Debug\main_form.login.resources
+C:\Users\loay\documents\visual studio 2017\Projects\main form\main form\obj\Debug\main form.csproj.ResolveComReference.cache
+C:\Users\loay\documents\visual studio 2017\Projects\main form\main form\obj\Debug\main form.csprojResolveAssemblyReference.cache
